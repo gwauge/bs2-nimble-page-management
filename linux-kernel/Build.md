@@ -1,7 +1,7 @@
 ## Prerequisites
 
 You need to intsall the following packages:
-`sudo apt install make gcc libncurses-dev flex bison`
+`sudo apt install make gcc libncurses-dev flex bison libssl-dev`
 
 ## Steps to build Kernel
 
