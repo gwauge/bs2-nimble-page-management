@@ -8,6 +8,7 @@ You need to intsall the following packages:
 - Copy the kernel `linux-5.6_rc6` to `home/$name/build`
 - Go to kernel Directory `linux-5.6_rc6`
 - Run `make mrproper`
+- Then copy it to `usr/src` with `sudo cp -R linux-5.6_rc6 /usr/src/`
 - Go to `usr/src/` and create a new kernel directory with `sudo mkdir linux-5.6`
 - Now switch into it with `cd linux-5.6`
 - And run `make O=/home/$name/build/linux-5.6_rc6 menuconfig`
