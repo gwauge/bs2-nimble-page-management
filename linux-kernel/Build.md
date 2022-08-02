@@ -2,7 +2,7 @@
 
 You need to install the following packages:
 `sudo apt install make gcc libncurses-dev flex bison libssl-dev`
-And download the kernel file here: [linux-5.6_rc6.zip](https://drive.google.com/file/d/1hhbfEWTdk0hkAeEN3y7M32KZ-7t9bPR_/view?usp=sharing)
+And download the kernel file here: [linux-4.14.78.zip](https://github.com/ysarch-lab/nimble_page_management_asplos_2019)
 
 ## Steps to build Kernel
 
